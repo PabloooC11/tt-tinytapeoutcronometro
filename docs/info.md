@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Es un crónometro que puede programarse para decrementar su cuenta desde 1 segundo hasta 9 horas con 9 minutos con 59 segundos.
 
 ## How to test
 
-Explain how to use your project
+con un boton decrementa, con otro incrementa, con otro cambia de número, otro de star y pausa, y reset.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+4 displays de 7 segmentos, de momento un oscilador de 1Hz.
